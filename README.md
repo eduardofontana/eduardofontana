@@ -1,13 +1,6 @@
-### Hi there 👋
 
-<!--
-**eduardofontana/eduardofontana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>_Palestras de Orientação e Prevenção a Cyber Ataques,  Análise de Vulnerabilidades, BugHunter. Como anda a segurança digital do seus "negócios"?
 
-Here are some ideas to get you started:
+#_- Cloud Services - OS Linux, Windows - Pentester - Ethical Hacker - Web Developer - Python/JS/CSS/HTML..
 
-- 🔭 I’m currently working on CBMDF
-- 🌱 I’m currently learning Pentesting
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with freelance
-- 💬 Ask me about ...
--->
+$_info: contato@eduardofontana.com.br
