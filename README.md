@@ -1,6 +1,6 @@
                                                        About me: 
                                                                 
-                                                    Eduardo Fontana
+                                                   <strong> Eduardo Fontana </strong>
 
 #_: Palestras de Orientação e Prevenção a Cyber Ataques | Análise de Vulnerabilidades | BugHunter.
 
