@@ -1,4 +1,4 @@
-## Hi, I'm Eduardo Fontana
+## Hi, I'm Eduardo Fontana 
 
 ![eduardofontana GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&theme=radical)
 
