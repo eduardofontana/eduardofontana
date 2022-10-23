@@ -21,5 +21,5 @@
 
 ## Stats
 
-https://github-readme-stats.vercel.app/api?username={eduardofontana}&theme=blue-green
+![Stats](https://github-readme-stats.vercel.app/api?username={eduardofontana}&theme=blue-green)
 
