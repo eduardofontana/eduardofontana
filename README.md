@@ -1,5 +1,5 @@
 # 🏴‍☠️ About Me:
-🔭 Military Firefighter since 2000;<br>👯 Team's Coop;<br>🤝 Ethical Hacking;<br>🌱 Python, Cyber Security;<br>💬 Entre em Contato !;<br>⚡ Working with technology since 1994
+🔭 Military Firefighter since 2000;<br>👯 Team's Coop;<br>🤝 Ethical Hacking;<br>🐍 Python, Cyber Security;<br>💬 Entre em Contato !;<br>⚡ Working with technology since 1994
 
 
 ## 🌐 Socials:
