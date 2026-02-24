@@ -1,45 +1,60 @@
-# ░▒▓█ eduardofontana █▓▒░
-### SYSTEM MODE: ULTRA_DARK_GLITCH
+# ███████╗██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗  ██████╗ 
+# ██╔════╝██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗
+# █████╗  ██║  ██║██║   ██║███████║██████╔╝██║  ██║██║   ██║
+# ██╔══╝  ██║  ██║██║   ██║██╔══██║██╔══██╗██║  ██║██║   ██║
+# ███████╗██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝╚██████╔╝
+# ╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ 
+
+## ░▒▓█ SYSTEM PROFILE: eduardofontana █▓▒░
 
 ```text
-ACCESS: GRANTED
-STATUS: ONLINE
-GLITCH_COLORS: #00FF6A / #FF0033
+BOOT SEQUENCE INITIATED...
+----------------------------------------
+USER: eduardofontana
+MODE: ULTRA_DARK_GLITCH
+COLOR_PROFILE: #00FF6A / #FF0033
+STACK: GameDev | Automation | Systems
+SECURITY_LEVEL: MONITORED
+----------------------------------------
+ACCESS GRANTED
 ```
-
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=eduardofontana&style=for-the-badge&color=00ff6a&label=PROFILE+VIEWS)
-![MODE](https://img.shields.io/badge/MODE-DARK__HACKER-00ff6a?style=for-the-badge&labelColor=000000)
-![ALERT](https://img.shields.io/badge/GLITCH-RED__ALERT-ff0033?style=for-the-badge&labelColor=000000)
 
 ---
 
 ## ░▒▓█ SYSTEM LOG █▓▒░
 
 ```text
-[BOOT] Kernel initialized...
-[AUTH] User: eduardofontana
-[STACK] GameDev | Automation | Systems
-[SEC] Intrusion status: monitored
-[MODE] Red/Green glitch enabled
+[00:00:01] kernel loaded
+[00:00:02] neural modules attached
+[00:00:03] automation engines online
+[00:00:04] pixel engine detected
+[00:00:05] glitch renderer enabled
 ```
 
 ---
 
-## ░▒▓█ PERFORMANCE █▓▒░
+## ░▒▓█ ACTIVE OPERATIONS █▓▒░
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&theme=transparent&hide_border=true&title_color=00ff6a&icon_color=ff0033&text_color=c9d1d9&ring_color=ff0033)
+🎮 Pixelia  
+> 2D Psychological Dark Platformer  
+> Engine: Godot  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofontana&layout=compact&theme=transparent&hide_border=true&title_color=00ff6a&text_color=c9d1d9)
+🤖 AI Automations  
+> n8n / integrations / workflows  
 
-![Streak](https://streak-stats.demolab.com?user=eduardofontana&theme=transparent&hide_border=true&ring=ff0033&fire=00ff6a&currStreakLabel=ff0033&sideLabels=00ff6a&dates=c9d1d9&stroke=ff0033)
+🛠 Systems & Security Experiments  
+> tooling / scripts / architecture  
 
 ---
 
-## ░▒▓█ ACTIVE PROJECTS █▓▒░
+## ░▒▓█ PERFORMANCE MATRIX █▓▒░
 
-- 🎮 Pixelia — 2D psychological dark platformer (Godot)
-- 🤖 AI Automations / n8n
-- 🛠 Systems & security experiments
+```text
+COMMITS      ████████████████░░░░
+PROJECTS     ██████████████░░░░░░
+EXPERIMENTS  █████████████████░░░
+CONSISTENCY  ███████████████░░░░░
+```
 
 ---
 
@@ -50,6 +65,10 @@ GLITCH_COLORS: #00FF6A / #FF0033
 01100110 01101111 01101110 01110100 01100001 01101110 01100001
 ```
 
+---
+
 ```text
-END OF LINE
+SYSTEM STATUS: STABLE
+GLITCH INTENSITY: MAXIMUM
+END OF LINE.
 ```
