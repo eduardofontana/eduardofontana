@@ -25,15 +25,15 @@
 Python      █████████████████░░░
 Web Dev     ███████████████░░░░░
 Security    █████████████████░░░
-Automation  ████████████████░░░░
+Pentest     ████████████████░░░░
 ```
 
 ---
 
 # 🧠 Current Focus
 
-🎮 Game Development (Godot / Pixelia)  
-🤖 AI Automation & Integrations  
+🎮 Game Development (Godot / UnrealEngine)  
+🤖 AI / LLM's / Pentest  
 🛠 Systems & Security Experiments  
 
 ---
