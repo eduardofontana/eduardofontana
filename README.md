@@ -1,74 +1,50 @@
-# ███████╗██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗  ██████╗ 
-# ██╔════╝██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗
-# █████╗  ██║  ██║██║   ██║███████║██████╔╝██║  ██║██║   ██║
-# ██╔══╝  ██║  ██║██║   ██║██╔══██║██╔══██╗██║  ██║██║   ██║
-# ███████╗██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝╚██████╔╝
-# ╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ 
+# 🏴‍☠️ About Me
 
-## ░▒▓█ SYSTEM PROFILE: eduardofontana █▓▒░
+🔭 Military Firefighter since 2000  
+👯 Team’s Coop  
+🤝 Ethical Hacking  
+🐍 Python  
+👨🏽‍💻 Web Development  
+⚡ Working with technology since 1994  
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&theme=dark&hide_border=true&title_color=00ff6a&icon_color=ff0033&text_color=ffffff&ring_color=ff0033)
+
+![](https://streak-stats.demolab.com?user=eduardofontana&theme=dark&hide_border=true&ring=ff0033&fire=00ff6a&currStreakLabel=ff0033)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofontana&theme=dark&hide_border=true&layout=compact&title_color=00ff6a&text_color=ffffff)
+
+---
+
+# ⚙️ Tech Stack
 
 ```text
-BOOT SEQUENCE INITIATED...
-----------------------------------------
-USER: eduardofontana
-MODE: ULTRA_DARK_GLITCH
-COLOR_PROFILE: #00FF6A / #FF0033
-STACK: GameDev | Automation | Systems
-SECURITY_LEVEL: MONITORED
-----------------------------------------
-ACCESS GRANTED
+Python      █████████████████░░░
+Web Dev     ███████████████░░░░░
+Security    █████████████████░░░
+Automation  ████████████████░░░░
 ```
 
 ---
 
-## ░▒▓█ SYSTEM LOG █▓▒░
+# 🧠 Current Focus
 
-```text
-[00:00:01] kernel loaded
-[00:00:02] neural modules attached
-[00:00:03] automation engines online
-[00:00:04] pixel engine detected
-[00:00:05] glitch renderer enabled
-```
-
----
-
-## ░▒▓█ ACTIVE OPERATIONS █▓▒░
-
-🎮 Pixelia  
-> 2D Psychological Dark Platformer  
-> Engine: Godot  
-
-🤖 AI Automations  
-> n8n / integrations / workflows  
-
+🎮 Game Development (Godot / Pixelia)  
+🤖 AI Automation & Integrations  
 🛠 Systems & Security Experiments  
-> tooling / scripts / architecture  
 
 ---
 
-## ░▒▓█ PERFORMANCE MATRIX █▓▒░
+# 🔐 Binary Signature
 
-```text
-COMMITS      ████████████████░░░░
-PROJECTS     ██████████████░░░░░░
-EXPERIMENTS  █████████████████░░░
-CONSISTENCY  ███████████████░░░░░
 ```
-
----
-
-## ░▒▓█ BINARY SIGNATURE █▓▒░
-
-```text
 01100101 01100100 01110101 01100001 01110010 01100100 01101111
 01100110 01101111 01101110 01110100 01100001 01101110 01100001
 ```
 
 ---
 
-```text
-SYSTEM STATUS: STABLE
-GLITCH INTENSITY: MAXIMUM
-END OF LINE.
-```
+> “Code is controlled chaos.”
