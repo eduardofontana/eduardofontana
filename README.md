@@ -1,6 +1,6 @@
 # 🏴‍☠️ About Me
 
-🔭 Military Firefighter since 2000  
+🔭 Firefighter since 2000  
 👯 Team’s Coop  
 🤝 Ethical Hacking  
 🐍 Python  
