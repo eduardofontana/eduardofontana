@@ -40,10 +40,12 @@ root@eduardo:~# skills --load
 Kali Linux | Burp Suite | Metasploit | Wireshark
 Nmap | SQLMap | Nikto | Hydra | John | OWASP ZAP
 
-[ CREATIVE ]
+[ DEVELOPMENT ]
 JavaScript | TypeScript | React | Node.js
-Python | Godot | AI/LLMs
-PostgreSQL | MongoDB | Docker
+Python | PostgreSQL | MongoDB | Docker
+
+[ EXPERIMENTAL ]
+AI / LLMs | Automation | Game Dev (Godot / Unreal)
 ```
 
 ---
@@ -64,26 +66,20 @@ PostgreSQL | MongoDB | Docker
 ## 🧪 PROJECTS.archive
 
 ```bash
-> ls /projects
+> loading top repositories...
+> fetching data from github...
 
-[PRJ-001] VulnScanner Pro
-→ AI-powered vulnerability scanner (Python / ML / Security)
-
-[PRJ-002] DarkStore
-→ Secure e-commerce platform (React / Node)
-
-[PRJ-003] CryptoVault
-→ Zero-knowledge password manager (Rust / Crypto)
-
-[PRJ-004] NetRecon
-→ Network reconnaissance framework (Go / Security)
-
-[PRJ-005] CodeAudit
-→ Static analysis for vulnerabilities (TypeScript)
-
-[PRJ-006] ShellForge
-→ Custom shell environment (C / Systems)
+✔ displaying most relevant projects
 ```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardofontana&repo=eduardofontana&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardofontana&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardofontana&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -92,8 +88,8 @@ PostgreSQL | MongoDB | Docker
 ```yaml
 - Cybersecurity & Pentest
 - AI / LLMs / Automation
-- Game Development (Godot / Unreal)
 - Systems Engineering
+- Performance & Security Testing
 ```
 
 ---
