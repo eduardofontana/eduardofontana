@@ -1,50 +1,126 @@
-# 🏴‍☠️ About Me
+# ⚡ Eduardo Fontana
 
-🔭 Firefighter since 2000  
-👯 Team’s Coop  
-🤝 Ethical Hacking  
-🐍 Python  
-👨🏽‍💻 Web Development  
-⚡ Working with technology since 1994  
+```bash
+> booting system...
+> loading profile...
+> access granted
+```
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&theme=dark&hide_border=true&title_color=00ff6a&icon_color=ff0033&text_color=ffffff&ring_color=ff0033)
-
-![](https://streak-stats.demolab.com?user=eduardofontana&theme=dark&hide_border=true&ring=ff0033&fire=00ff6a&currStreakLabel=ff0033)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofontana&theme=dark&hide_border=true&layout=compact&title_color=00ff6a&text_color=ffffff)
-
----
-
-# ⚙️ Tech Stack
-
-```text
-Python      █████████████████░░░
-Web Dev     ███████████████░░░░░
-Security    █████████████████░░░
-Pentest     ████████████████░░░░
+```
+[ ROLE ] Web Developer & Pentester
+[ STATUS ] ACTIVE
+[ SINCE ] 1994 (tech) | 2000 (firefighter)
 ```
 
 ---
 
-# 🧠 Current Focus
+## 🧠 SYSTEM_PROFILE.log
 
-🎮 Game Development (Godot / UnrealEngine)  
-🤖 AI / LLM's / Pentest  
-🛠 Systems & Security Experiments  
+```bash
+root@eduardo:~# whoami
+
+Eduardo Fontana
+Firefighter | Developer | Security Researcher
+
+root@eduardo:~# skills --load
+
+- Python
+- Web Development
+- Ethical Hacking
+- Pentest
+- Systems & Security
+```
 
 ---
 
-# 🔐 Binary Signature
+## ⚙️ STACK.sys
 
+```bash
+[ OFFENSIVE ]
+Kali Linux | Burp Suite | Metasploit | Wireshark
+Nmap | SQLMap | Nikto | Hydra | John | OWASP ZAP
+
+[ CREATIVE ]
+JavaScript | TypeScript | React | Node.js
+Python | Godot | AI/LLMs
+PostgreSQL | MongoDB | Docker
 ```
+
+---
+
+## 📊 GITHUB_STATS.dat
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=eduardofontana&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofontana&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧪 PROJECTS.archive
+
+```bash
+> ls /projects
+
+[PRJ-001] VulnScanner Pro
+→ AI-powered vulnerability scanner (Python / ML / Security)
+
+[PRJ-002] DarkStore
+→ Secure e-commerce platform (React / Node)
+
+[PRJ-003] CryptoVault
+→ Zero-knowledge password manager (Rust / Crypto)
+
+[PRJ-004] NetRecon
+→ Network reconnaissance framework (Go / Security)
+
+[PRJ-005] CodeAudit
+→ Static analysis for vulnerabilities (TypeScript)
+
+[PRJ-006] ShellForge
+→ Custom shell environment (C / Systems)
+```
+
+---
+
+## 🧠 CURRENT_FOCUS.cfg
+
+```yaml
+- Cybersecurity & Pentest
+- AI / LLMs / Automation
+- Game Development (Godot / Unreal)
+- Systems Engineering
+```
+
+---
+
+## 🔐 SIGNATURE.key
+
+```bash
 01100101 01100100 01110101 01100001 01110010 01100100 01101111
 01100110 01101111 01101110 01110100 01100001 01101110 01100001
 ```
 
 ---
 
-> “Code is controlled chaos.”
+## 🌐 ACCESS
+
+```bash
+> open https://eduardofontana.com.br
+```
+
+---
+
+## ⚡ FINAL_LOG
+
+```bash
+[ OK ] system stable
+[ OK ] firewall active
+[ OK ] ready for new opportunities
+```
+
+> Code. Break. Secure. Repeat.
