@@ -25,29 +25,6 @@ Desenvolvedor web e pentester focado em **segurança ofensiva, aplicações mode
 
 ---
 
-## 🧪 Projetos
-
-```bash
-> ls /projects
-```
-
-### 🔍 VulnScanner Pro  
-AI-powered vulnerability scanner  
-
-### 🕶️ NetRecon  
-Network reconnaissance framework  
-
-### 🔐 CryptoVault  
-Zero-knowledge password manager  
-
-### 🛒 DarkStore  
-Secure e-commerce platform  
-
-### 🧠 CodeAudit  
-Static vulnerability analysis  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
