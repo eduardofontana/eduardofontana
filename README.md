@@ -77,12 +77,12 @@ class EduardoFontana:
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=FF006E&text_color=c9d1d9&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardofontana&hide_border=true&ring=00F7FF&fire=FF006E&currStreakLabel=FF006E&background=0D1117&stroke=00F7FF&dates=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardofontana&hide_border=true&ring=00F7FF&fire=FF006E&currStreakLabel=FFFFFF&currStreakNum=00F7FF&sideNums=FFFFFF&sideLabels=FFFFFF&background=0D1117&stroke=00F7FF&dates=FFFFFF" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofontana&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0D1117" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofontana&layout=compact&hide_border=true&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117" width="40%" />
 </p>
 
 <br/>
