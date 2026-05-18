@@ -99,8 +99,8 @@ if __name__ == "__main__":
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0A0A0A" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardofontana&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&background=0A0A0A&stroke=00FF41&dates=00FF41" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0A0A0A" width="46%" />
+  <img src="https://streak-stats.demolab.com/?user=eduardofontana&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&background=0A0A0A&stroke=00FF41&dates=00FF41" width="46%" />
 </p>
 
 <p align="center">
