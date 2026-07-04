@@ -197,11 +197,11 @@ building:
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a>
 
-<a href="https://linkedin.com/in/eduardofontana">
+<a href="[https://linkedin.com/in/eduardofontana](https://www.linkedin.com/in/eduardo-fontana-b9b20b284/)">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 
-<a href="mailto:eduardo@pm.me">
+<a href="mailto:duhduh.zip@proton.me">
   <img src="https://img.shields.io/badge/ProtonMail-0D1117?style=for-the-badge&logo=protonmail&logoColor=00FF41"/>
 </a>
 
