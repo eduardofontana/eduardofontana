@@ -1,244 +1,127 @@
-<div align="center">
 
-# Eduardo Fontana
-
-### Web Developer · Automation · Application Security
-
-I build secure web applications, automations, internal tools and infrastructure.
-
-**Available for freelance projects and technical consulting · Brazil / Remote**
-
-<br/>
-
-<a href="https://github.com/eduardofontana/vercel-portfolio">
-  <img src="https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/eduardo-fontana-b9b20b284/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:duhduh.zip@proton.me">
-  <img src="https://img.shields.io/badge/EMAIL-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AVAILABLE%20FOR-FREELANCE-22C55E?style=flat-square" alt="Available for freelance"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-111827?style=flat-square" alt="Brazil"/>
-<img src="https://img.shields.io/badge/WORK-REMOTE-111827?style=flat-square" alt="Remote"/>
-
-</div>
-
----
-
-## About me
-
-I work across **web development, automation, application security and infrastructure**.
-
-I like building useful systems, understanding how they fail and improving them with a security-first mindset.
-
-My current focus is on:
-
-- modern web applications
-- workflow and AI automation
-- application security
-- Linux-based infrastructure
-- internal tools and integrations
-
----
-
-## What I do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web Development
-
-Modern web applications, dashboards, APIs and internal tools.
-
-I focus on maintainable code, performance, responsive interfaces and secure application design.
-
-**Typical work**
-
-`Web Apps` · `Dashboards` · `APIs` · `Internal Tools`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Automation & AI
-
-Automation for repetitive workflows, integrations between services and AI-assisted tools.
-
-The goal is simple: reduce manual work and make systems communicate better.
-
-**Typical work**
-
-`Automation` · `Integrations` · `AI Tools` · `Workflows`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Application Security
-
-Security reviews focused on web applications and the infrastructure supporting them.
-
-I work with secure development practices, pentesting and identifying practical weaknesses before they become bigger problems.
-
-**Typical work**
-
-`Web Security` · `Pentesting` · `Secure Development` · `Hardening`
-
-</td>
-<td width="50%" valign="top">
-
-### 🐧 Infrastructure
-
-Linux environments, containers, deployments and supporting infrastructure.
-
-I enjoy working close to the system layer and building environments that are easier to deploy, monitor and maintain.
-
-**Typical work**
-
-`Linux` · `Docker` · `Nginx` · `Observability`
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,bash&perline=6" alt="Languages"/>
-
-<br/>
-
-### Web
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css&perline=6" alt="Web technologies"/>
-
-<br/>
-
-### Infrastructure & Data
-
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,mongodb,redis,git,grafana&perline=8" alt="Infrastructure and databases"/>
-
-</div>
-
----
-
-# Featured Work
-
-## Interactive Portfolio
-
-**Next.js · React · TypeScript · Three.js · Security**
-
-[View repository →](https://github.com/eduardofontana/vercel-portfolio)
-
-### The problem
-
-I wanted a portfolio that could present projects and technical work without becoming another conventional static developer page.
-
-The interface needed to have personality while still being responsive, usable and security-conscious.
-
-### The solution
-
-I built an interactive portfolio using a modern Next.js stack with a cinematic 3D environment and dynamic project data.
-
-The project includes:
-
-- interactive 3D background
-- GitHub API integration
-- responsive navigation
-- reusable social components
-- motion and scroll interactions
-- security headers
-- Content Security Policy
-- reduced-motion accessibility support
-- password exposure checking with Have I Been Pwned
-
-### Technology
-
-`Next.js 16`  
-`React 19`  
-`TypeScript`  
-`Three.js`  
-`React Three Fiber`  
-`Framer Motion`  
-`Tailwind CSS`
-
-### Result
-
-A production-ready portfolio combining frontend development, interactive graphics, external API integration and application security practices in a single project.
+        
+           Copy Markdown
+        
+        <!-- ========================================================
+  🚀 GitHub Profile README — The Modern Frontend Engineer
+  Copy this file into your [username]/[username] repository!
+  Replace all placeholder values with your own information.
+  ======================================================== -->
+
+# Hi there, I'm Alex Chen! 👋🚀
 
 <p align="center">
-  <a href="https://github.com/eduardofontana/vercel-portfolio">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%7C+React+Specialist;Open+Source+Contributor;UI%2FUX+Enthusiast;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://your-portfolio.dev">
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=10b981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Currently building **scalable UI architectures** with React 18 & Next.js 14
+- 🌱 Deep-diving into **Web Performance, Core Web Vitals, and Edge Computing**
+- 💡 Passionate about **Developer Experience (DX)**, design systems, and open source
+- 🎯 2024 Goal: Contribute to **50+ open source projects** and ship my SaaS product
+- ☕ Fuel: **Specialty coffee** and lo-fi beats
+- 📫 Reach me: **alex@yourportfolio.dev**
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=06b6d4&text_color=8b949e" alt="GitHub contribution stats card" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=8b949e" alt="GitHub top languages card" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=f59e0b&currStreakLabel=10b981" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Stars |
+|---------|-------------|-------|-------|
+| [⚡ UIForge](https://github.com/your-username/uiforge) | Open-source React component library with 50+ accessible components | React, TypeScript, Storybook | ⭐ 1.2k |
+| [🔗 LinkDrop](https://github.com/your-username/linkdrop) | Beautiful bookmark manager with AI-powered categorization | Next.js, OpenAI, Prisma | ⭐ 847 |
+| [🎨 ThemeStudio](https://github.com/your-username/themestudio) | Visual CSS variable editor for design systems | Vue, Vite, IndexedDB | ⭐ 534 |
+
+---
+
+## ⏰ Wakatime Coding Activity (Last 30 Days)
+
+```text
+JavaScript   ████████████░░░░░░░░░░░░░   48.23 %
+TypeScript   ██████░░░░░░░░░░░░░░░░░░░   22.14 %
+CSS/SCSS     ████░░░░░░░░░░░░░░░░░░░░░   14.87 %
+JSON         ██░░░░░░░░░░░░░░░░░░░░░░░    9.41 %
+Markdown     █░░░░░░░░░░░░░░░░░░░░░░░░    5.35 %
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/your-username">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=your-username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee button" />
   </a>
 </p>
 
 ---
 
-## Security & technical interests
-
-```text
-Application Security     Web Exploitation
-Secure Development       Infrastructure Hardening
-AI Automation            Reverse Engineering
-Red Teaming              Advanced Networking
-Low-level Systems        Offensive Security
-```
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Eduardo's GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofontana&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-
-</div>
-
----
-
-## Currently exploring
-
-- AI-assisted automation
-- security tooling
-- reverse engineering
-- Rust for systems and security
-- low-level systems
-- advanced networking
-
----
-
-<div align="center">
-
-# Let's build something
-
-I am available for selected freelance projects involving:
-
-**Web Development · Automation · Application Security · Infrastructure**
-
-<br/>
-
-<a href="mailto:duhduh.zip@proton.me">
-  <img src="https://img.shields.io/badge/START_A_PROJECT-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Start a project"/>
-</a>
-
-<br/><br/>
-
-[GitHub](https://github.com/eduardofontana) ·
-[LinkedIn](https://www.linkedin.com/in/eduardo-fontana-b9b20b284/) ·
-[Portfolio](https://github.com/eduardofontana/vercel-portfolio)
-
-</div>
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/your-username">your-username</a> — Happy coding! 🚀</i>
+</p>
+      
