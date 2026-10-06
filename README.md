@@ -1,235 +1,244 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:00FF41&text=Eduardo%20Fontana&fontColor=00FF41&fontAlignY=40&desc=Web%20Security%20Engineer%20%7C%20Pentester%20%7C%20Automation%20Builder&descAlignY=58"/>
+# Eduardo Fontana
+
+### Web Developer · Automation · Application Security
+
+I build secure web applications, automations, internal tools and infrastructure.
+
+**Available for freelance projects and technical consulting · Brazil / Remote**
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=700&color=00FF41&center=true&vCenter=true&width=900&lines=Web+Security+Engineer;Pentester+%7C+Offensive+Security;Automation+Builder;Linux+%2B+AI+%2B+Infrastructure;Building+and+breaking+systems..." />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/status-online-00ff41?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/focus-offensive%20security-00ff41?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/os-linux-00ff41?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/location-brazil-00ff41?style=for-the-badge&labelColor=0d1117"/>
-
-</div>
-
----
-
-# `root@matrix:~# whoami`
-
-```bash
-root@matrix:~$ whoami
-eduardofontana
-
-root@matrix:~$ cat profile.log
-
-> Web Developer
-> Pentester
-> Security Researcher
-> Automation Engineer
-
-root@matrix:~$ echo $CURRENT_FOCUS
-
-- Web Application Security
-- AI Automation
-- Offensive Security
-- Infrastructure Hardening
-
-root@matrix:~$ uptime
-24 years, still learning
-
-root@matrix:~$ motto
-"Build secure systems. Break insecure ones."
-```
-
----
-
-# `root@matrix:~# cat about.md`
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-class EduardoFontana:
-
-    def __init__(self):
-        self.role = [
-            "Web Security Engineer",
-            "Pentester",
-            "Automation Builder",
-        ]
-
-        self.stack = [
-            "Python",
-            "TypeScript",
-            "Go",
-            "Rust",
-            "Linux",
-            "Docker",
-            "React",
-            "Next.js",
-        ]
-
-        self.interests = [
-            "Web Exploitation",
-            "Reverse Engineering",
-            "Red Teaming",
-            "AI + Security",
-            "Infrastructure",
-        ]
-
-    def run(self):
-        while True:
-            self.learn()
-            self.build()
-            self.break_stuff()
-            self.secure_everything()
-```
-
----
-
-# `root@matrix:~# current_ops`
-
-```yaml
-focus:
-  - Offensive Security
-  - Secure Development
-  - AI Automation
-  - Infrastructure Security
-
-learning:
-  - Malware Analysis
-  - Rust for Offensive Security
-  - Low-level Systems
-  - Advanced Networking
-
-building:
-  - Security Tools
-  - Automation Systems
-  - Internal Recon Utilities
-```
-
----
-
-# `root@matrix:~# arsenal`
-
-<div align="center">
-
-## Offensive Security
-
-<img src="https://skillicons.dev/icons?i=linux,bash,py,kali&perline=8"/>
-
-<br/><br/>
-
-## Development
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,rust&perline=8"/>
-
-<br/><br/>
-
-## Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,redis,nginx,grafana,git&perline=8"/>
-
-</div>
-
----
-
-# `root@matrix:~# projects`
-
-| Project | Description |
-|---|---|
-| Matrix Toolkit | Offensive security utilities and automation scripts |
-| Recon Engine | Automated reconnaissance framework |
-| AI Automation Lab | AI + security experiments and tooling |
-| Secure Infra | Infrastructure hardening and monitoring |
-| Internal Research | Reverse engineering and exploit studies |
-
----
-
-# `root@matrix:~# github_metrics`
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardofontana&theme=github_dark"/>
-
-<br/><br/>
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0D1117"/>
-
-<img width="47%" src="https://streak-stats.demolab.com?user=eduardofontana&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=00FF41&sideLabels=00FF41&dates=00FF41&stroke=00FF41"/>
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofontana&layout=compact&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=0D1117"/>
-
-</div>
-
----
-
-# `root@matrix:~# activity`
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardofontana&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# `root@matrix:~# trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=eduardofontana&theme=matrix&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# `root@matrix:~# connect`
-
-<div align="center">
-
-<a href="https://github.com/eduardofontana">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/>
+<a href="https://github.com/eduardofontana/vercel-portfolio">
+  <img src="https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/eduardo-fontana-b9b20b284/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:duhduh.zip@proton.me">
+  <img src="https://img.shields.io/badge/EMAIL-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="[https://linkedin.com/in/eduardofontana](https://www.linkedin.com/in/eduardo-fontana-b9b20b284/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
-</a>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AVAILABLE%20FOR-FREELANCE-22C55E?style=flat-square" alt="Available for freelance"/>
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-111827?style=flat-square" alt="Brazil"/>
+<img src="https://img.shields.io/badge/WORK-REMOTE-111827?style=flat-square" alt="Remote"/>
+
+</div>
+
+---
+
+## About me
+
+I work across **web development, automation, application security and infrastructure**.
+
+I like building useful systems, understanding how they fail and improving them with a security-first mindset.
+
+My current focus is on:
+
+- modern web applications
+- workflow and AI automation
+- application security
+- Linux-based infrastructure
+- internal tools and integrations
+
+---
+
+## What I do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+
+Modern web applications, dashboards, APIs and internal tools.
+
+I focus on maintainable code, performance, responsive interfaces and secure application design.
+
+**Typical work**
+
+`Web Apps` · `Dashboards` · `APIs` · `Internal Tools`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Automation & AI
+
+Automation for repetitive workflows, integrations between services and AI-assisted tools.
+
+The goal is simple: reduce manual work and make systems communicate better.
+
+**Typical work**
+
+`Automation` · `Integrations` · `AI Tools` · `Workflows`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Application Security
+
+Security reviews focused on web applications and the infrastructure supporting them.
+
+I work with secure development practices, pentesting and identifying practical weaknesses before they become bigger problems.
+
+**Typical work**
+
+`Web Security` · `Pentesting` · `Secure Development` · `Hardening`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐧 Infrastructure
+
+Linux environments, containers, deployments and supporting infrastructure.
+
+I enjoy working close to the system layer and building environments that are easier to deploy, monitor and maintain.
+
+**Typical work**
+
+`Linux` · `Docker` · `Nginx` · `Observability`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,bash&perline=6" alt="Languages"/>
+
+<br/>
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css&perline=6" alt="Web technologies"/>
+
+<br/>
+
+### Infrastructure & Data
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,mongodb,redis,git,grafana&perline=8" alt="Infrastructure and databases"/>
+
+</div>
+
+---
+
+# Featured Work
+
+## Interactive Portfolio
+
+**Next.js · React · TypeScript · Three.js · Security**
+
+[View repository →](https://github.com/eduardofontana/vercel-portfolio)
+
+### The problem
+
+I wanted a portfolio that could present projects and technical work without becoming another conventional static developer page.
+
+The interface needed to have personality while still being responsive, usable and security-conscious.
+
+### The solution
+
+I built an interactive portfolio using a modern Next.js stack with a cinematic 3D environment and dynamic project data.
+
+The project includes:
+
+- interactive 3D background
+- GitHub API integration
+- responsive navigation
+- reusable social components
+- motion and scroll interactions
+- security headers
+- Content Security Policy
+- reduced-motion accessibility support
+- password exposure checking with Have I Been Pwned
+
+### Technology
+
+`Next.js 16`  
+`React 19`  
+`TypeScript`  
+`Three.js`  
+`React Three Fiber`  
+`Framer Motion`  
+`Tailwind CSS`
+
+### Result
+
+A production-ready portfolio combining frontend development, interactive graphics, external API integration and application security practices in a single project.
+
+<p align="center">
+  <a href="https://github.com/eduardofontana/vercel-portfolio">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
+  </a>
+</p>
+
+---
+
+## Security & technical interests
+
+```text
+Application Security     Web Exploitation
+Secure Development       Infrastructure Hardening
+AI Automation            Reverse Engineering
+Red Teaming              Advanced Networking
+Low-level Systems        Offensive Security
+```
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardofontana&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Eduardo's GitHub stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofontana&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+
+</div>
+
+---
+
+## Currently exploring
+
+- AI-assisted automation
+- security tooling
+- reverse engineering
+- Rust for systems and security
+- low-level systems
+- advanced networking
+
+---
+
+<div align="center">
+
+# Let's build something
+
+I am available for selected freelance projects involving:
+
+**Web Development · Automation · Application Security · Infrastructure**
+
+<br/>
 
 <a href="mailto:duhduh.zip@proton.me">
-  <img src="https://img.shields.io/badge/ProtonMail-0D1117?style=for-the-badge&logo=protonmail&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/START_A_PROJECT-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Start a project"/>
 </a>
-
-</div>
-
----
-
-```bash
-[ SYSTEM MESSAGE ]
-
-"Security is not a product.
-It is a process."
-
-— Bruce Schneier
-```
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=eduardofontana&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-```bash
-root@matrix:~$ exit
-
-Connection to reality closed.
-```
+[GitHub](https://github.com/eduardofontana) ·
+[LinkedIn](https://www.linkedin.com/in/eduardo-fontana-b9b20b284/) ·
+[Portfolio](https://github.com/eduardofontana/vercel-portfolio)
 
 </div>
