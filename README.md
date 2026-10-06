@@ -1,5 +1,5 @@
 <img
   alt="Eduardo Fontana GitHub Profile"
-  src="https://gitascii.com/api/user/eduardofontana?v=1"
+  src="gitascii.json"
   width="100%"
 />
