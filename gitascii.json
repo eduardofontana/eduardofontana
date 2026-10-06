@@ -1,4 +1,10 @@
 {
+  "version": 1,
+  "githubId": 74500353,
+  "username": "eduardofontana",
+  "profileSlug": "default",
+  "profileName": "Eduardo Fontana",
+  "templateId": "rugbedbugg",
   "widgets": [
     {
       "widgetId": "surveillance-header",
@@ -83,6 +89,7 @@
   ],
   "globalStyles": {
     "backgroundColor": "#050308",
+    "transparentBackground": false,
     "textColor": "#e5e5e5",
     "accentColor": "#55ffff",
     "borderColor": "#1a1424",
@@ -92,5 +99,11 @@
     "themeMode": "dark",
     "templateStyle": "rugbedbugg"
   },
-  "templateId": "rugbedbugg"
+  "metadata": {
+    "createdAt": "2026-10-06T05:33:00.000Z",
+    "updatedAt": "2026-10-06T05:33:00.000Z",
+    "schemaVersion": 1,
+    "generatedBy": "manual",
+    "revision": "rev_20261006_053300"
+  }
 }
