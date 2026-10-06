@@ -1,140 +1,96 @@
 {
-  "version": 1,
-  "githubId": 74500353,
-  "username": "eduardofontana",
-  "profileSlug": "default",
-  "profileName": "Eduardo Fontana",
-  "templateId": "dracula",
-  "globalStyles": {
-    "backgroundColor": "#282a36",
-    "transparentBackground": false,
-    "textColor": "#f8f8f2",
-    "accentColor": "#bd93f9",
-    "borderColor": "#44475a",
-    "fontFamily": "'JetBrains Mono', monospace",
-    "borderRadius": 8,
-    "padding": 24,
-    "themeMode": "dark",
-    "templateStyle": "dracula"
-  },
   "widgets": [
     {
-      "instanceId": "widget_1786925881066_0",
-      "widgetId": "header",
-      "name": "Header Widget",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
       "position": {
-        "x": 0,
+        "x": 10,
         "y": 0
       },
       "size": {
-        "width": 800,
-        "height": 90
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 1
-    },
-    {
-      "instanceId": "widget_1786925881066_2",
-      "widgetId": "terminal-info",
-      "name": "Terminal Info Widget",
-      "position": {
-        "x": 296,
-        "y": 106
-      },
-      "size": {
-        "width": 504,
-        "height": 280
+        "width": 780,
+        "height": 417
       },
       "config": {
-        "animationType": "none",
-        "animationPreviewKey": 5,
-        "headerColor": "#8be9fd",
-        "labelColor": "#ffb86c",
-        "valueColor": "#f8f8f2",
-        "dotLeaders": true,
-        "showUptime": true,
-        "showLocation": false,
-        "showLanguages": true,
-        "showStars": true,
-        "showRepos": true
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 3
+      "zIndex": 1,
+      "instanceId": "widget_1791266896935_0"
     },
     {
-      "instanceId": "widget_1786925881066_3",
-      "widgetId": "languages",
-      "name": "Top Languages Widget",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
       "position": {
-        "x": 8,
-        "y": 402
+        "x": 10,
+        "y": 417
       },
       "size": {
-        "width": 768,
-        "height": 160
+        "width": 780,
+        "height": 420
       },
       "config": {
-        "hideLangs": "HTML,CSS",
-        "hideLangsArr": [
-          "HTML",
-          "CSS"
-        ],
-        "langsLayout": "bars",
-        "langsCount": 6,
-        "showPercentage": true
+        "accentColor": "#55ffff",
+        "customTitle": "Terminal Telemetry"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 4
+      "zIndex": 2,
+      "instanceId": "widget_1791266896935_1"
     },
     {
-      "instanceId": "widget_1786925881066_5",
-      "widgetId": "footer",
-      "name": "Footer Widget",
+      "widgetId": "surveillance-feeds",
+      "name": "Surveillance-feeds Widget",
       "position": {
-        "x": 0,
-        "y": 578
+        "x": 10,
+        "y": 845
       },
       "size": {
-        "width": 800,
-        "height": 50
+        "width": 780,
+        "height": 190
       },
       "config": {
-        "accentColor": "#bd93f9"
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Social Feeds"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 6
+      "zIndex": 3,
+      "instanceId": "widget_1791266896935_2"
     },
     {
-      "instanceId": "widget_1786925974935",
-      "widgetId": "asciiprofile-portrait",
-      "name": "ASCII Profile Portrait",
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
       "position": {
-        "x": 8,
-        "y": 106
+        "x": 10,
+        "y": 1051
       },
       "size": {
-        "width": 280,
-        "height": 280
+        "width": 780,
+        "height": 200
       },
       "config": {
-        "cols": 150,
-        "rows": 75,
-        "accentColor": "#bd93f9"
+        "accentColor": "#55ffff",
+        "customTitle": "Daily Loadout"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 6
+      "zIndex": 4,
+      "instanceId": "widget_1791266896935_3"
     }
   ],
-  "metadata": {
-    "createdAt": "2026-10-06T05:57:59.787705Z",
-    "updatedAt": "2026-10-06T05:57:59.787705Z",
-    "schemaVersion": 1,
-    "generatedBy": "manual"
-  }
+  "globalStyles": {
+    "backgroundColor": "#050308",
+    "textColor": "#e5e5e5",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "rugbedbugg"
+  },
+  "templateId": "rugbedbugg"
 }
