@@ -1,7 +1,22 @@
 {
-  "id": "eduardofontana-dracula",
+  "version": 1,
+  "githubId": 74500353,
+  "username": "eduardofontana",
+  "profileSlug": "default",
+  "profileName": "Eduardo Fontana",
   "templateId": "dracula",
-  "name": "Eduardo Fontana - Dracula",
+  "globalStyles": {
+    "backgroundColor": "#282a36",
+    "transparentBackground": false,
+    "textColor": "#f8f8f2",
+    "accentColor": "#bd93f9",
+    "borderColor": "#44475a",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 8,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "dracula"
+  },
   "widgets": [
     {
       "instanceId": "widget_1786925881066_0",
@@ -23,7 +38,7 @@
     {
       "instanceId": "widget_1786925881066_2",
       "widgetId": "terminal-info",
-      "name": "Terminal-info Widget",
+      "name": "Terminal Info Widget",
       "position": {
         "x": 296,
         "y": 106
@@ -34,7 +49,16 @@
       },
       "config": {
         "animationType": "none",
-        "animationPreviewKey": 5
+        "animationPreviewKey": 5,
+        "headerColor": "#8be9fd",
+        "labelColor": "#ffb86c",
+        "valueColor": "#f8f8f2",
+        "dotLeaders": true,
+        "showUptime": true,
+        "showLocation": false,
+        "showLanguages": true,
+        "showStars": true,
+        "showRepos": true
       },
       "locked": false,
       "visible": true,
@@ -43,7 +67,7 @@
     {
       "instanceId": "widget_1786925881066_3",
       "widgetId": "languages",
-      "name": "Languages Widget",
+      "name": "Top Languages Widget",
       "position": {
         "x": 8,
         "y": 402
@@ -57,7 +81,10 @@
         "hideLangsArr": [
           "HTML",
           "CSS"
-        ]
+        ],
+        "langsLayout": "bars",
+        "langsCount": 6,
+        "showPercentage": true
       },
       "locked": false,
       "visible": true,
@@ -75,7 +102,9 @@
         "width": 800,
         "height": 50
       },
-      "config": {},
+      "config": {
+        "accentColor": "#bd93f9"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 6
@@ -83,7 +112,7 @@
     {
       "instanceId": "widget_1786925974935",
       "widgetId": "asciiprofile-portrait",
-      "name": "Asciiprofile-portrait Widget",
+      "name": "ASCII Profile Portrait",
       "position": {
         "x": 8,
         "y": 106
@@ -102,19 +131,10 @@
       "zIndex": 6
     }
   ],
-  "globalStyles": {
-    "padding": 24,
-    "textColor": "#f8f8f2",
-    "themeMode": "dark",
-    "fontFamily": "'JetBrains Mono', monospace",
-    "accentColor": "#bd93f9",
-    "borderColor": "#44475a",
-    "borderRadius": 8,
-    "templateStyle": "dracula",
-    "backgroundColor": "#282a36"
-  },
-  "author": "eduardofontana",
-  "authorUrl": "https://github.com/eduardofontana",
-  "category": "Developer Profile",
-  "categoryUrl": "https://github.com/eduardofontana"
+  "metadata": {
+    "createdAt": "2026-10-06T05:57:59.787705Z",
+    "updatedAt": "2026-10-06T05:57:59.787705Z",
+    "schemaVersion": 1,
+    "generatedBy": "manual"
+  }
 }
